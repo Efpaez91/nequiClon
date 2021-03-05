@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72877359102",
+    "project_id": "nequi-41342",
+    "storage_bucket": "nequi-41342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72877359102:android:afcf54623fc866f78ccaaf",
+        "android_client_info": {
+          "package_name": "com.example.nequi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72877359102-6st2f0d84buaq2rpnh6v1a72dat499ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1b_HIt7FoQmA42QqfvkUr6CmD6nL1P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72877359102-6st2f0d84buaq2rpnh6v1a72dat499ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
